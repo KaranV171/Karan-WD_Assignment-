@@ -1,0 +1,135 @@
+body{
+    background-color: #ffffff;
+}
+
+.price_t{
+   
+    display : flex;
+    justify-content:space-between;
+    gap : 20px;
+    padding :100px;
+    height: 50px;
+    width: 50px;
+}
+.box1{
+    background-color: rgb(243, 243, 228);
+    padding : 100px;
+    display : flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding-bottom: 250px;
+    padding-top: 45px;
+}
+.basic{
+    padding :10px;
+    text-align: center;
+    font-size: 1rem;
+    
+}
+.dollar{
+    padding : 10px;
+    text-align: center;
+    font-size: 2rem;
+}
+.storage{
+     padding : 10px;
+     text-align: center;
+}
+.user{
+     padding : 10px;
+     text-align: center;
+}
+.support{
+    padding : 10px;
+    text-align: center;
+}
+.button_design{
+    text-align: center;
+    background-color: red;
+    border-radius: 4px;;
+    font-size: 15px;
+    margin-left: 80px;
+    
+}
+.box2{
+    background-color: rgb(243, 243, 228);
+    padding : 100px;
+    display : flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding-bottom: 250px;
+    padding-top: 45px;
+}
+.standard{
+    padding :10px;
+    text-align: center;
+    font-size: 1rem;
+    
+}
+.dollar2{
+    padding : 10px;
+    text-align: center;
+    font-size: 2rem;
+}
+.storage2{
+     padding : 10px;
+     text-align: center;
+}
+.user2{
+     padding : 10px;
+     text-align: center;
+}
+.support2{
+    padding : 10px;
+    text-align: center;
+}
+.button_design2{
+    text-align: center;
+    background-color: red;
+    border-radius: 4px;;
+    font-size: 15px;
+    margin-left: 80px;
+    
+}
+
+
+.box3{
+    background-color: rgb(243, 243, 228);
+    padding : 100px;
+    display : flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding-bottom: 250px;
+    padding-top: 45px;
+}
+.premium{
+    padding :10px;
+    text-align: center;
+    font-size: 1rem;
+    
+}
+.dollar3{
+    padding : 10px;
+    text-align: center;
+    font-size: 2rem;
+}
+.storage3{
+     padding : 10px;
+     text-align: center;
+}
+.user3{
+     padding : 10px;
+     text-align: center;
+}
+.support3{
+    padding : 10px;
+    text-align: center;
+}
+.button_design3{
+    text-align: center;
+    background-color: red;
+    border-radius: 4px;
+    font-size: 15px;
+    margin-left: 80px;
+    
+}
